@@ -62,21 +62,4 @@ Fast React App is a frontend application for ordering pizza from an outlet. The 
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License Information
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
-## Contact Information
-
-For support or inquiries, please contact [Ujjwal Baranwal](mailto:ujjwalbaranwal221715@gmail.com).
-
-## Additional Sections
-
-### FAQs
-
-**Q: What is the minimum Node.js version required?**  
-A: The minimum Node.js version required is 14.
-
-**Q: How do I report a bug or request a feature?**  
-A: You can report bugs or request features by opening an issue on the GitHub repository.
 
